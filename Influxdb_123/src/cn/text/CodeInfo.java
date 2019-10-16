@@ -11,6 +11,7 @@ public class CodeInfo implements Serializable{
 	//登录id
 	private Long id;
 	//用户名
+	//55555
 	private String name;
 	//类名
 	private String code;
