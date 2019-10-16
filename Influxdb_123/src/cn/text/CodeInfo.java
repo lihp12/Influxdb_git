@@ -10,6 +10,7 @@ public class CodeInfo implements Serializable{
 	private static final long serialVersionUID = 1L;
 	//登录id
 	private Long id;
+	//用户名
 	private String name;
 	private String code;
 	private String descr;
